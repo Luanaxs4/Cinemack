@@ -1,5 +1,3 @@
-#Luana Brito RA: 10750121, Louisy Tomazi RA:10755895, Yulianny Briceno RA:10756284
-#filmen = [poltronas_sessao1],[poltronas_sessao2]
 filme1=[[0]*50,[0]*50]
 filme2=[[0]*40,[0]*40]
 filme3=[[0]*30,[0]*30]
@@ -483,13 +481,13 @@ def relatorio():
     print(f"Filme 2: {media_f2:.2f}")
     print(f"Filme 3: {media_f3:.2f}")
 
-
-#INÍCIO DO CÓDIGO ===============================================
+#INÍCIO DO CÓDIGO ============
 menu()
     
 
 
     
+
 
 
 
